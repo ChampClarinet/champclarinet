@@ -4,8 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-champbassist159-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:champbassist159@gmail.com)](mailto:champbassist159@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Champ%20Klarinette-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/champclarinetmaster)](https://facebook.com/champclarinetmaster)
 
-<p>Welcome to my GitHub Profile! </br> I'm Champ, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="13"/> <b>Bangkok, Thailand</b>. 
-<h3>Things I code with</h3>
+<p>Welcome to my GitHub Profile! </br>I'm Champ,  a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="13"/> <b>Bangkok, Thailand</b>. </p>
+
+<h2>👨‍💻 Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -31,14 +32,15 @@
 
 <h2>⚡️ Some Facts About Me</h2>
 <ul>
-  <li>💬 I'm Wallop Opasakhun, you can also call me Champ.</li>
-  <li>🔭 Currently working on Synapes (Thailand) Co., Ltd. (2 Years)</li>
-  <li>🌱 Also CTO of Ezygroup Innovation Co., Ltd.</li>
-  <li>👨‍🎓 Graduated from department of computing, Silpakorn University.</li>
-  <li>🎉 Hobbies are travelling, playing music and gaming.</li>
+  <li>💬 I'm Wallop Opasakhun; you can also call me Champ.</li>
+  <li>🔭 Currently working at Synapes (Thailand) Co., Ltd. (2 years)</li>
+  <li>🌱 Also the CTO of Ezygroup Innovation Co., Ltd.</li>
+  <li>👨‍🎓 Graduated from the Department of Computing, Silpakorn University.</li>
+  <li>🎉 Hobbies include traveling, playing music, and gaming.</li>
+  <li>👨‍💻 Most repositories in this profile are things I learned to use during my time at university. Now, I mainly use TypeScript.</li>
 </ul>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=champclarinet&show_icons=true&locale=en&layout=compact&theme=algolia" alt="most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=champclarinet&show_icons=true&locale=en&layout=compact&theme=algolia" alt="most used languages" />
 
 <!--
 **ChampClarinet/champclarinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
