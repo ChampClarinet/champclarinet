@@ -28,12 +28,13 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Pinterest" src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Elysiajs" src="https://img.shields.io/badge/-Elysiajs-5D5E5C?style=flat-square&logo=Elysia&logoColor=white" />
 </p>
 
 <h2>⚡️ Some Facts About Me</h2>
 <ul>
   <li>💬 I'm Wallop Opasakhun; you can also call me Champ.</li>
-  <li>🔭 Currently working at Synapes (Thailand) Co., Ltd. (2 years)</li>
+  <li>🔭 Currently working at Synapes (Thailand) Co., Ltd. (since 2022)</li>
   <li>🌱 Also the CTO of Ezygroup Innovation Co., Ltd.</li>
   <li>👨‍🎓 Graduated from the Department of Computing, Silpakorn University.</li>
   <li>🎉 Hobbies include traveling, playing music, and gaming.</li>
