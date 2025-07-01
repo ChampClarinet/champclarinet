@@ -29,6 +29,7 @@
   <img alt="Pinterest" src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Elysiajs" src="https://img.shields.io/badge/-Elysiajs-5D5E5C?style=flat-square&logo=Elysia&logoColor=white" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcn&logoColor=white" />
 </p>
 
 <h2>⚡️ Some Facts About Me</h2>
