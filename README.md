@@ -57,3 +57,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+Want to see my creative side? Check out my [champfolio](https://champfolio.vercel.app) where I showcase my music & coding projects with some flair! 🎨🎵
+
+---
+
+Thanks for visiting 💖  
+Let's connect and build something awesome together! 🚀
